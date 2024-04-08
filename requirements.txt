@@ -1,0 +1,16 @@
+The code in this repository requires the following libraries to be installed:
+
+- pandas
+- numpy
+- sklearn
+- pyodbc
+- matplotlib
+- seaborn
+- geopandas
+- plotly
+- json
+- scipy
+- statsmodels
+- folium
+- xgboost
+- catboost
