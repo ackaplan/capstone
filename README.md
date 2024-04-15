@@ -6,6 +6,7 @@ of registered voters, as well as examining how those who have won money on Predi
 
 **INCLUDED FILES:**
 
+- predictit_generate_data_for_analysis.sql - .sql script used to generate the user data and voter data for the analysis work.
 - PredictIT_EDA.zip - contains Jupyter notebook for exploratory data analysis and visualizations. 
 - PredictIT_Modeling_Likely_Users.jpynb - modeling likely users 
 - PredictIT_Modeling_Winners.jpynb - modeling likely winners 
